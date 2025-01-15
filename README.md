@@ -42,7 +42,7 @@ The default sequence run by the script `run.sh` is MH_01_easy. To run other sequ
 
   The dataset can be accessed from the following Google Drive link: [https://drive.google.com/drive/folders/1pj_Mf7HZoEAfbB15ckfvofcqjkrKX6zL?usp=drive_link](https://drive.google.com/drive/folders/1pj_Mf7HZoEAfbB15ckfvofcqjkrKX6zL?usp=drive_link).
 
-  Given that the image resolution of the dataset is 960×540, please ensure that the resolution of fisheye_mask.jpg in the config folder is also 960×540. Fisheye mask files with different resolutions can be found in the config/fishmask/ folder.
+  Given that the image resolution of the dataset is 960×540, please ensure that the resolution of `fisheye_mask.jpg` in the `config` folder is also 960×540. Fisheye mask files with different resolutions can be found in the `config/fishmask/` folder.
 
 ``` bash
 $ cd ~/catkin_ws/
