@@ -49,7 +49,7 @@ $ cd ~/catkin_ws/
 $ sh run.sh 
 ```
 
-## 4.Acknowledgements
+## 4. Acknowledgements
 
 Thanks to the open-source [VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono) project, we can rapidly develop our algorithm within the VINS system.
 
